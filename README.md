@@ -1,6 +1,4 @@
-GitHub炫酷个人主页README（Jayoyin专属）
-
-[![Typing SVG](https://readme-typing-svg.hertzen.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=60&lines=机器人技术 | 游戏开发 | 系统架构;C%23 | C%2B%2B | Python | TypeScript;用代码将想法变为现实)](https://git.io/typing-svg)
+GitHub炫酷个人主页README
 
 ---
 
@@ -21,10 +19,14 @@ GitHub炫酷个人主页README（Jayoyin专属）
 - ⚡ 趣味小知识：我喜欢将游戏开发与机器人技术结合，打造沉浸式体验，且熟练掌握多种编程语言。
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayRoyin)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### 🛠️ 技术栈与技能
 
 #### 编程语言
+
+
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
