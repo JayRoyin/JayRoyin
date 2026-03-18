@@ -1,78 +1,102 @@
-GitHub炫酷个人主页README
-
----
-
 ### 📌 关于我
 
-我是一名充满热情的开发者，对游戏开发、机器人技术和软件工程有着浓厚的兴趣。痴迷于学习新技术，优化每一行代码。我的技术之旅让我接触了多种技术领域，从机器人手臂的底层嵌入式C/C++开发，到C#和Unity的高层游戏逻辑编写，始终保持探索的热情。
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&center=true&width=600&lines=%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E5%85%85%E6%BB%A1%E7%83%AD%E6%83%85%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;%E5%AF%B9%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E5%92%8C%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E6%9C%89%E7%9D%80%E6%B5%93%E5%8E%9A%E5%85%B4%E8%B6%A3;%E7%97%B4%E8%BF%B7%E4%BA%8E%E5%AD%A6%E4%B9%A0%E6%96%B0%E6%8A%80%E6%9C%AF%EF%BC%8C%E4%BC%98%E5%8C%96%E6%AF%8F%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81;%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B9%8B%E6%97%85%E8%AE%A9%E6%88%91%E6%8E%A5%E8%A7%A6%E4%BA%86%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E9%A2%86%E5%9F%9F)](https://git.io/typing-svg)
 
-- 🔭 目前正在开发：RoyinGame（私人游戏项目）和STM32机器人手臂控制系统
+<div align="center">
+🌱正在学习：高级机器人控制技术、人工智能与游戏开发融合应用
+</div>
+<div align="center">
+👯 寻求合作：开源机器人项目、游戏开发、系统优化
+</div>
+<div align="center">
+💬 可咨询：C#、C++、Python、TypeScript、Unity、STM32、Linux
+</div>
+<div align="center">
+趣味小知识：喜欢将游戏开发与机器人技术结合，打造沉浸式体验
+</div>
 
-- 🌱 正在学习：高级机器人控制技术以及人工智能与游戏开发的融合应用
+<br/>
 
-- 👯 寻求合作：开源机器人项目、游戏开发项目或系统优化相关项目
+## 🛠️ 我的技术栈
+<table><tr><td valign="top" width="33%">
 
-- 💬 可咨询领域：C#、C++、Python、TypeScript、Unity、STM32、Linux环境配置
+### 编程语言
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+</div>
 
-- 📫 联系方式：[邮箱] | [LinkedIn链接] | [个人博客]
+</td><td valign="top" width="33%">
 
-- ⚡ 趣味小知识：我喜欢将游戏开发与机器人技术结合，打造沉浸式体验，且熟练掌握多种编程语言。
+### 开发框架与硬件
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="75" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+### 未来学习方向
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>
+
+<br/>
+
+## 📊 GitHub 统计
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayRoyin&hide_border=true&layout=compact" align="center" style="width: 100%" />
+</div>  
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JayRoyin&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+</div>  
+
+<br/>
+
+
+## 🔗 联系我
+<div align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/JayRoyin" target="_blank" style="margin: 0 8px">
+    <img src="https://img.shields.io/badge/GitHub-JayRoyin-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Gitee -->
+  <a href="https://gitee.com/JayRoyin" target="_blank" style="margin: 0 8px">
+    <img src="https://img.shields.io/badge/Gitee-JayRoyin-C71D23?style=for-the-badge&logo=gitee&logoColor=white" />
+  </a>
+  <!-- 邮箱 -->
+  <a href="mailto:jayroyin1958@outlook.com" target="_blank" style="margin: 0 8px">
+    <img src="https://img.shields.io/badge/邮箱-jayroyin1958@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- 微信 -->
+  <a href="javascript:void(0)" target="_blank" style="margin: 0 8px">
+    <img src="https://img.shields.io/badge/微信-jayroyin1958-07C160?style=for-the-badge&logo=weixin&logoColor=white" />
+  </a>
+</div>
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayRoyin)](https://github.com/anuraghazra/github-readme-stats)
----
 
-### 🛠️ 技术栈与技能
-
-#### 编程语言
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayRoyin)](https://github.com/anuraghazra/github-readme-stats)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-#### 开发领域
-
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black) ![STM32](https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### 工具与开发运维
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 我的项目
-
-| 项目名称 | 项目描述 | 技术栈 | 星星数 |
-|---------|----------|--------|--------|
-| [realsense](https://github.com/Jayoyin/realsense) | 与Intel RealSense相关的公开项目，集成Python开发 | Python | ![Stars](https://img.shields.io/github/stars/Jayoyin/realsense?style=flat-square) |
-| [RoyinMind](https://github.com/Jayoyin/RoyinMind) | 基于TypeScript开发的公开项目，采用MIT许可协议 | TypeScript | ![Stars](https://img.shields.io/github/stars/Jayoyin/RoyinMind?style=flat-square) |
-| [awsome-envs_linux](https://github.com/Jayoyin/awsome-envs_linux) | Ubuntu系统各类环境配置说明文档 | C++ | ![Stars](https://img.shields.io/github/stars/Jayoyin/awsome-envs_linux?style=flat-square) |
-| [Xunfei_Web_TTS](https://github.com/Jayoyin/Xunfei_Web_TTS) | 讯飞TTS WebAPI的交互式C++封装工具，采用MIT许可协议 | C++ | ![Stars](https://img.shields.io/github/stars/Jayoyin/Xunfei_Web_TTS?style=flat-square) |
-| [AutoDisplacedAI](https://github.com/Jayoyin/AutoDisplacedAI) | 一款自动替换同义词的小软件，便捷实用 | HTML | ![Stars](https://img.shields.io/github/stars/Jayoyin/AutoDisplacedAI?style=flat-square) |
-| [SimpleRPG](https://github.com/Jayoyin/SimpleRPG) | 用于学习和实验的简易RPG游戏项目 | C# | ![Stars](https://img.shields.io/github/stars/Jayoyin/SimpleRPG?style=flat-square) |
-| [STM32F407-Six-degree-of-freedom-robotic-arm](https://github.com/Jayoyin/STM32F407-Six-degree-of-freedom-robotic-arm) | 基于STM32F407的六自由度机器人手臂控制系统 | C | ![Stars](https://img.shields.io/github/stars/Jayoyin/STM32F407-Six-degree-of-freedom-robotic-arm?style=flat-square) |
-| [Unity2D_learning](https://github.com/Jayoyin/Unity2D_learning) | 仅供个人学习参考的Unity2D学习仓库 | Unity | ![Stars](https://img.shields.io/github/stars/Jayoyin/Unity2D_learning?style=flat-square) |
-
----
-
-### 📊 GitHub 统计信息
-
-
-
----
-
-### 🔗 联系我
-
-[![GitHub](https://img.shields.io/badge/GitHub-Jayoyin-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayoyin)
-[![邮箱](https://img.shields.io/badge/邮箱-你的邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-你的姓名-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/你的姓名)
-
----
-
-### 📈 访问量统计
-
-[![访问量统计](https://komarev.com/ghpvc/?username=Jayoyin&color=brightgreen&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
-
----
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=JayRoyin&style=flat-square&color=brightgreen" align="center" />
+</div>
+<br/>
+<div align="center">
 “代码不只是代码——它是解决问题、创造价值的方式。”
+</div>
+<div align="center">
+Generated using Github Profilinator & Customized README
+</div>
