@@ -23,21 +23,21 @@
 
 ## Neon Links
 
-<p align="center">
-<a href="https://royin.online/">
-  <img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website" width="64" height="64" />
-</a>
-<a href="mailto:jayroyin1958@outlook.com">
-  <img src="https://img.icons8.com/color/96/000000/microsoft-outlook-2019--v1.png" alt="email" width="64" height="64" />
-</a>
-<a href="https://github.com/JayRoyin">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="github" width="64" height="64" />
-</a>
-<a href="https://gitee.com/JayRoyin">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitee.svg" alt="gitee" width="64" height="64" />
-</a>
+<div style="display: flex; justify-content: center; gap: 16px; flex-wrap: nowrap;">
+  <a href="https://royin.online/">
+    <img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website" width="64" height="64" />
+  </a>
+  <a href="mailto:jayroyin1958@outlook.com">
+    <img src="https://img.icons8.com/color/96/000000/microsoft-outlook-2019--v1.png" alt="email" width="64" height="64" />
+  </a>
+  <a href="https://github.com/JayRoyin">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="github" width="64" height="64" />
+  </a>
+  <a href="https://gitee.com/JayRoyin">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitee.svg" alt="gitee" width="64" height="64" />
+  </a>
+</div>
 
-</p>
 
 <p align="center">
   <a href="https://royin.online/">
@@ -143,8 +143,8 @@
     </td>
 
 <p align="center">
-  <a href="https://github.com/JayRoyin/personal-website">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=personal-website&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="personal website repo card" />
+  <a href="https://https://github.com/JayRoyin/realsense">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=realsense&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="realsense repo card" />
   </a>
   <a href="https://github.com/JayRoyin/git-daily-reporter">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=git-daily-reporter&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="git daily reporter repo card" />
@@ -152,8 +152,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JayRoyin/Traffic_Signal_Optimization_System">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=Traffic_Signal_Optimization_System&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="traffic signal repo card" />
+  <a href="https://https://github.com/JayRoyin/SimpleRPG">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=SimpleRPG&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="SimpleRPG repo card" />
   </a>
   <a href="https://github.com/JayRoyin/awsome-envs_linux">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=awsome-envs_linux&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="envs repo card" />
