@@ -1,111 +1,179 @@
-### 📌 关于我
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&center=true&width=600&lines=%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E5%85%85%E6%BB%A1%E7%83%AD%E6%83%85%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;%E5%AF%B9%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E5%92%8C%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E6%9C%89%E7%9D%80%E6%B5%93%E5%8E%9A%E5%85%B4%E8%B6%A3;%E7%97%B4%E8%BF%B7%E4%BA%8E%E5%AD%A6%E4%B9%A0%E6%96%B0%E6%8A%80%E6%9C%AF%EF%BC%8C%E4%BC%98%E5%8C%96%E6%AF%8F%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81;%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B9%8B%E6%97%85%E8%AE%A9%E6%88%91%E6%8E%A5%E8%A7%A6%E4%BA%86%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E9%A2%86%E5%9F%9F)](https://git.io/typing-svg)
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,30:090979,60:00d4ff,100:00ff99&text=ROYIN%20%7C%20NEON%20CONTROL%20PANEL&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Robotics%20Developer%20%C2%B7%20Game%20Tech%20Explorer%20%C2%B7%20Systems%20Engineer&descAlignY=57&animation=fadeIn" alt="ROYIN neon banner" />
 
-<div align="center">
-🌱正在学习：高级机器人控制技术、人工智能与游戏开发融合应用
-</div>
-<div align="center">
-👯 寻求合作：开源机器人项目、游戏开发、系统优化
-</div>
-<div align="center">
-💬 可咨询：C#、C++、Python、TypeScript、Unity、STM32、Linux
-</div>
-<div align="center">
-趣味小知识：喜欢将游戏开发与机器人技术结合，打造沉浸式体验
-</div>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2200&pause=700&center=true&vCenter=true&width=980&lines=%3E+Building+robots%2C+interactive+tools%2C+and+developer+systems;%3E+%E6%8A%8A%E6%B8%B8%E6%88%8F%E5%8C%96%E4%BA%A4%E4%BA%92%E6%80%9D%E7%BB%B4%E5%B8%A6%E5%85%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1;%3E+Focused+on+C%23%2C+C%2B%2B%2C+Python%2C+TypeScript%2C+Unity%2C+Linux;%3E+Turning+code+into+real+systems%2C+real+tools%2C+and+real+value)](https://git.io/typing-svg)
 
-### 编程语言
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-</div>
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&logo=signal&logoColor=001b12" alt="status online" />
+  <img src="https://img.shields.io/badge/FOCUS-ROBOTICS%20%26%20INTERACTIVE%20SYSTEMS-00d4ff?style=for-the-badge&logo=dependabot&logoColor=001018" alt="focus" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING%20THE%20FUTURE-7c3aed?style=for-the-badge&logo=rocket&logoColor=ffffff" alt="mode" />
+</p>
 
-</td><td valign="top" width="33%">
+<p>
+  <img src="https://img.shields.io/badge/Open%20To-Open%20Source%20Collaboration-111827?style=flat-square&logo=github&logoColor=00ff9c" alt="open to collaboration" />
+  <img src="https://img.shields.io/badge/Base-China-111827?style=flat-square&logo=googlemaps&logoColor=00d4ff" alt="base china" />
+  <img src="https://img.shields.io/badge/Field-Robotics%20%7C%20Embedded%20%7C%20Game%20Tech-111827?style=flat-square&logo=atom&logoColor=8b5cf6" alt="field" />
+</p>
 
-### 开发框架与硬件
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="75" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### 未来学习方向
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>
-
-<br/>
-
-## 📊 GitHub 统计
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayRoyin&hide_border=true&layout=compact" align="center" style="width: 100%" />
-</div>  
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JayRoyin&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-</div>  
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayRoyin/JayRoyin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayRoyin/JayRoyin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JayRoyin/JayRoyin/output/github-contribution-grid-snake.svg">
-</picture>
-<br/>
-
-## 🔗 联系我
-<div align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/JayRoyin" target="_blank" style="margin: 0 8px">
-    <img src="https://img.shields.io/badge/GitHub-JayRoyin-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  
-  <!-- Gitee -->
-  <a href="https://gitee.com/JayRoyin" target="_blank" style="margin: 0 8px">
-    <img src="https://img.shields.io/badge/Gitee-JayRoyin-C71D23?style=for-the-badge&logo=gitee&logoColor=white" />
-  </a>  
-  <!-- 个人网站 -->
-  <a href="https://royin.online/" target="_blank" style="margin: 0 8px">
-    <img src="https://img.shields.io/badge/个人网站-royin.online-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <!-- 邮箱 -->
-  <a href="mailto:jayroyin1958@outlook.com" target="_blank" style="margin: 0 8px">
-    <img src="https://img.shields.io/badge/邮箱-jayroyin1958@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>  
-  <!-- 微信 -->
-  <a href="javascript:void(0)" target="_blank" style="margin: 0 8px">
-    <img src="https://img.shields.io/badge/微信-jayroyin1958-07C160?style=for-the-badge&logo=weixin&logoColor=white" />
-  </a>  
 </div>
 
 ---
 
+## Neon Links
+
+<p align="center">
+<a href="https://royin.online/">
+  <img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website" width="64" height="64" />
+</a>
+<a href="mailto:jayroyin1958@outlook.com">
+  <img src="https://img.icons8.com/color/96/000000/microsoft-outlook-2019--v1.png" alt="email" width="64" height="64" />
+</a>
+<a href="https://github.com/JayRoyin">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="github" width="64" height="64" />
+</a>
+<a href="https://gitee.com/JayRoyin">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitee.svg" alt="gitee" width="64" height="64" />
+</a>
+
+</p>
+
+<p align="center">
+  <a href="https://royin.online/">
+    <img src="https://img.shields.io/badge/PORTAL-royin.online-0f172a?style=for-the-badge&logo=googlechrome&logoColor=00d4ff" alt="website badge" />
+  </a>
+  <a href="mailto:jayroyin1958@outlook.com">
+    <img src="https://img.shields.io/badge/MAIL-jayroyin1958%40outlook.com-0f172a?style=for-the-badge&logo=microsoftoutlook&logoColor=00ff9c" alt="email badge" />
+  </a>
+  <a href="https://github.com/JayRoyin">
+    <img src="https://img.shields.io/badge/GITHUB-JayRoyin-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="github badge" />
+  </a>
+  <a href="https://gitee.com/JayRoyin">
+    <img src="https://img.shields.io/badge/GITEE-JayRoyin-0f172a?style=for-the-badge&logo=gitee&logoColor=ff4d4f" alt="gitee badge" />
+  </a>
+  <img src="https://img.shields.io/badge/WECHAT-jayroyin1958-0f172a?style=for-the-badge&logo=wechat&logoColor=00ff9c" alt="wechat badge" />
+</p>
+
+<p align="center">
+  <sub>Icons by <a href="https://icons8.com">Icons8</a></sub>
+</p>
+
+## About Me
+
+<table>
+  <tr>
+    <td width="56%" valign="top">
+      <h3>Profile</h3>
+      <ul>
+        <li>🤖 专注机器人控制、嵌入式系统、开发工具链与交互式产品工程。</li>
+        <li>🎮 喜欢把游戏开发里的实时反馈、沉浸感与交互设计迁移到机器人和软件系统中。</li>
+        <li>🧠 持续投入高级机器人控制、人工智能融合应用、系统架构和工程效率优化。</li>
+        <li>👯 正在寻找有意思的合作：开源机器人、自动化平台、开发者工具、互动体验项目。</li>
+        <li>💬 欢迎交流：<code>C#</code> <code>C++</code> <code>Python</code> <code>TypeScript</code> <code>Unity</code> <code>STM32</code> <code>Linux</code></li>
+        <li>⚡ 我更关注“技术能否真正落地”，而不只是把功能写出来。</li>
+      </ul>
+      <h3>当前状态</h3>
+      <ul>
+        <li>角色定位  : 机器人 / 交互系统开发者</li>
+        <li>正在构建  : 开发工具、网站、控制系统、嵌入式工作流</li>
+        <li>兴趣方向  : 机器人、游戏技术、系统设计、自动化</li>
+        <li>核心理念  : 解决真实问题，交付可用产品</li>
+    </td>
+    <td width="44%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=JayRoyin&show_icons=true&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c&rank_icon=github&include_all_commits=true" alt="JayRoyin github stats" />
+      <br>
+      <p align="center">
+        <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayRoyin&theme=github_dark" alt="repos per language" />
+      </p>
+      
+  </tr>
+</table>
+
+
+## Languages and Tools
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=JayRoyin&style=flat-square&color=brightgreen" align="center" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,py,ts,js,html,css,unity,dotnet,linux,docker,git,github,bash,nginx,arduino,raspberrypi,vscode&perline=10" alt="languages and tools" />
 </div>
-<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROBOTICS-Control%20Systems%20%26%20Automation-111827?style=for-the-badge&logo=ros&logoColor=00d4ff" alt="robotics badge" />
+  <img src="https://img.shields.io/badge/EMBEDDED-STM32%20%7C%20ESP32%20%7C%20Raspberry%20Pi-111827?style=for-the-badge&logo=platformio&logoColor=00ff9c" alt="embedded badge" />
+  <img src="https://img.shields.io/badge/GAME%20TECH-Unity%20%7C%20Interactive%20Tooling-111827?style=for-the-badge&logo=unity&logoColor=ffffff" alt="game tech badge" />
+  <img src="https://img.shields.io/badge/ENGINEERING-Architecture%20%7C%20Tooling%20%7C%20DevOps-111827?style=for-the-badge&logo=githubactions&logoColor=8b5cf6" alt="engineering badge" />
+</p>
+
+<p align="center">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/CODE-C%23%20%7C%20C%2B%2B%20%7C%20Python-020617?style=flat-square&logo=visualstudio&logoColor=00d4ff" alt="code stack" />
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/ENGINE-Linux%20%7C%20Docker%20%7C%20Git-020617?style=flat-square&logo=linux&logoColor=00ff9c" alt="engine stack" />
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/BUILD-Unity%20%7C%20.NET%20%7C%20Web-020617?style=flat-square&logo=unity&logoColor=ffffff" alt="build stack" />
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/HARDWARE-Arduino%20%7C%20Pi%20%7C%20MCU-020617?style=flat-square&logo=arduino&logoColor=00d4ff" alt="hardware stack" />
+    </td>
+  </tr>
+</p>
+
+## GitHub Dashboard
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayRoyin&layout=compact&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9" alt="top languages" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=JayRoyin&hide_border=true&background=00000000&ring=00d4ff&fire=00ff9c&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="github streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayRoyin/JayRoyin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayRoyin/JayRoyin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JayRoyin/JayRoyin/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
+## Featured Repositories
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayRoyin&theme=github_dark" alt="profile details" />
+    </td>
+
+<p align="center">
+  <a href="https://github.com/JayRoyin/personal-website">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=personal-website&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="personal website repo card" />
+  </a>
+  <a href="https://github.com/JayRoyin/git-daily-reporter">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=git-daily-reporter&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="git daily reporter repo card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JayRoyin/Traffic_Signal_Optimization_System">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=Traffic_Signal_Optimization_System&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="traffic signal repo card" />
+  </a>
+  <a href="https://github.com/JayRoyin/awsome-envs_linux">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayRoyin&repo=awsome-envs_linux&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=00ff9c" alt="envs repo card" />
+  </a>
+</p>
+
+## Signal Board
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JayRoyin&style=for-the-badge&label=NEON%20VISITORS&color=00d4ff" alt="profile views" />
+  <img src="https://img.shields.io/badge/LAST%20UPDATE-2026--04--18-111827?style=for-the-badge&logo=clockify&logoColor=00ff9c" alt="last update" />
+  <img src="https://img.shields.io/badge/README-MODE%20A%20%7C%20NEON%20CYBERPUNK-111827?style=for-the-badge&logo=readme&logoColor=8b5cf6" alt="readme mode" />
+</p>
+
+---
+
 <div align="center">
-“代码不只是代码——它是解决问题、创造价值的方式。”
-</div>
-<div align="center">
-Generated using Github Profilinator & Customized README
+
+### "代码不只是代码，它是解决问题、创造价值的方式。"
+
+<sub>Generated and customized for ROYIN's profile README</sub>
+
 </div>
